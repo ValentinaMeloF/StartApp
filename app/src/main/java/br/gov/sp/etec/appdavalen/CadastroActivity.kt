@@ -24,6 +24,6 @@ class CadastroActivity : AppCompatActivity() {
             val intent = Intent(this, PainelActivity::class.java)
             startActivity(intent)
         }
-
+        //test123
     }
 }
