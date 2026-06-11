@@ -93,6 +93,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:backgroundTint="#FD5E92"
+        android:fontFamily="monospace"
         android:text="Cadastrar"
         android:textColorLink="#E91E63"
         app:layout_constraintBottom_toBottomOf="parent"
